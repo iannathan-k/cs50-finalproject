@@ -1,8 +1,8 @@
-# CS50 Generative AI
+# CS50 GenAI Guru
 
-### Video Demo: http://youtube.....
+#### Video Demo: https://youtu.be/XgXPRa7U3v4
 
-### Description:
+#### Description:
 
 This Final Project offers a website for users to experience Generative AI in action, powered by Google Gemini. Users will be able to test their trivia skills by answering several AI-generated questions and manually track which ones they got it right. They can continue play by fetching the next set of AI-generated questions. Their achievements are then tracked and the top-10 will show up on the Leaderboard. To make it more fair to everyone, the top-10 shown can be based on their lifetime records, last 24-hour as well as last hour. Users can show the different top-10 with a simple Javascript-based links.
 
@@ -58,18 +58,3 @@ This Final Project also showcases how AJAX (Asynchronous JavaScript and XML) can
 ### Bootstrap
 
 This Final Project also leverages various Bootstrap classes like container, row-md-xx, col-md-xx, btn, btn-primary, btn-secondary, text alignments, etc.
-
-
-<!-- Create a README.md text file (named exactly that!) in your project folder that explains your project. This file should include your Project Title, the URL of your video (created in step 1 above) and a description of your project. You may use the below as a template.
-
-# YOUR PROJECT TITLE
-#### Video Demo:  <URL HERE>
-#### Description:
-TODO
-If unfamiliar with Markdown syntax, you might find GitHub’s Basic Writing and Formatting Syntax helpful. You can also preview your .md file by clicking the ‘preview’ icon as explained here: Markdown Preview in vscode. Standard software project READMEs can often run into the thousands or tens of thousands of words in length; yours need not be that long, but should at least be several hundred words that describe things in detail!
-
-Your README.md file should be minimally multiple paragraphs in length, and should explain what your project is, what each of the files you wrote for the project contains and does, and if you debated certain design choices, explaining why you made them. Ensure you allocate sufficient time and energy to writing a README.md that documents your project thoroughly. Be proud of it! A README.md in the neighborhood of 750 words is likely to be sufficient for describing your project and all aspects of its functionality. If unable to reach that threshold, that probably means your project is insufficiently complex.
-
-Execute the submit50 command below from within your project directory (or from whichever directory contains README.md file and your project’s code, which must also be submitted), logging in with your GitHub username and password when prompted. For security, you’ll see asterisks instead of the actual characters in your password.
-
-submit50 cs50/problems/2024/x/project -->

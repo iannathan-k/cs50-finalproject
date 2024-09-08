@@ -54,7 +54,7 @@ def trivia():
     """Show trivia page"""
 
     # prompt for GenAI to generate trivia questions
-    str = "Provide random %d elementary-level math questions, followed by the answer. Prefix \
+    str = "Provide random %d as-level chemistry questions, followed by the answer. Prefix \
         each question with **QQ** and each answer with **AA**." % TRIVIA_COUNT
 
     response = model.generate_content(str)
